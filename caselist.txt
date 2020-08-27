@@ -1,0 +1,9 @@
+#执行什么模块就放开什么模块
+user/test01case
+#user/test02case
+#user/test03case
+#user/test04case
+#user/test05case
+#shop/test_shop_list
+#shop/test_my_shop
+#shop/test_new_shop
